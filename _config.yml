@@ -2,10 +2,10 @@
 # Main Configs #
 # ----------------------- #
 
-url: http://localhost:4000
-title: My Sani Blog
-subtitle: Less Code. More Blogging.
-author: Your Name
+url: http://keithparent.github.io
+title: i eat crayons
+subtitle: ...and crap rainbows.
+author: Keith Parent
 simple_search: http://google.com/search
 description:
 sidebar:
